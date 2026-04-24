@@ -2,7 +2,7 @@
 
 A privacy-first, open-source browser extension that detects and explains phishing attempts and social engineering attacks in real time.
 
-Powered by a local-first analysis engine and an interactive cybersecurity awareness companion.
+Powered by a local-first analysis engine.
 
 ---
 
@@ -23,6 +23,6 @@ Most security tools hide threats.
 
 Fraud Toaster explains them.
 
-> “Security awareness through understanding, not slaps on the wrist.”
+> “Security awareness through understanding, not just slaps on the wrist.”
 
 ---
