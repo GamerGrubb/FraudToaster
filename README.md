@@ -23,6 +23,6 @@ Most security tools hide threats.
 
 Fraud Toaster explains them.
 
-> “Security awareness through understanding, not just blocking.”
+> “Security through understanding, not just blocking.”
 
 ---
