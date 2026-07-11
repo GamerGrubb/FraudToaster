@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Fraud Toaster",
+  "version": "0.1",
+  "description": "Detects potential scams on webpages.",
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background/service_worker.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
+}

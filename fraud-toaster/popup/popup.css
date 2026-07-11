@@ -1,0 +1,15 @@
+body {
+  width: 300px;
+
+  padding: 10px;
+
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+#score {
+  margin-top: 10px;
+}
