@@ -1,4 +1,4 @@
-# Fraud Toaster 0.1
+# Fraud Toaster V0.1
 
 A privacy-first, open-source browser extension that detects and explains phishing attempts and social engineering attacks in real time.
 
